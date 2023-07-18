@@ -15,3 +15,6 @@ https://althafmu.github.io/Web_Bootcamp/SpaceX/
 
 #5 bday Gift card:
 https://althafmu.github.io/Web_Bootcamp/bdaygift/
+
+#6 Project1 :
+https://althafmu.github.io/Web_Bootcamp/pro1/
