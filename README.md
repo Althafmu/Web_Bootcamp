@@ -18,3 +18,6 @@ https://althafmu.github.io/Web_Bootcamp/bdaygift/
 
 #6 Project1 :
 https://althafmu.github.io/Web_Bootcamp/pro1/
+
+#7 cssflex :
+https://althafmu.github.io/Web_Bootcamp/cssflex/
